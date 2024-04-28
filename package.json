@@ -3,9 +3,7 @@
         "node-red": "*",
         "node-red-debugger": "*",
         "nrlint": "*",
-        "jszip": "*",       
-        "js-beautify": "*",
-        "node-red-contrib-web-worldmap": "*"
+        "@flowfuse/node-red-dashboard": "*"
     },
     "scripts": {
         "start": "node-red -D editorTheme.tours=false"
