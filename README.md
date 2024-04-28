@@ -4,7 +4,7 @@ You can access the flow editor from the following URL.
 
 **Node-RED flow editor**
 
-https://stackblitz.com/github/kazuhitoyokoi/node-red-webcontainer?embed=1&hideExplorer=1&hideNavigation=1&view=preview
+https://stackblitz.com/github/kazuhitoyokoi/node-red-webcontainer-dashboard?embed=1&hideExplorer=1&hideNavigation=1&view=preview
 
 ## How does it work?
 ### General architecture of Node-RED
